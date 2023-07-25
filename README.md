@@ -10,7 +10,7 @@ Git Version Control Project
 
 ### Description
 Describe what your project is about and what it does
-Trying and learning version controling
+Trying and learning version controling with github and git local and remote repos
 
 ### Files used
 Include the files used
